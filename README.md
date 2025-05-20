@@ -27,7 +27,7 @@ A **real-time chat application** built on the MERN stack with end-to-end testing
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/a-d-e-e/livechat-hub.git
+   git clone https://github.com/a-d-e-e/live-chat-hub.git
    cd livechat-hub
    ```
 2. **Install server dependencies**
